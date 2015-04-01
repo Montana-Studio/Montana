@@ -1,0 +1,26 @@
+{
+  "name": "montana-studio",
+  "title": "Montana Studio",
+  "description": "Website",
+  "version": "0.0.1",
+  "homepage": "http://www.montana-studio.com/",
+  "author": {
+    "name": "Montana Studio",
+    "email": "mauro@montana-studio.com",
+    "url": "http://www.montana-studio.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mediatrends/montana-studio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mediatrends/montana-studio/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.montana-studio.com//blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": []
+}
